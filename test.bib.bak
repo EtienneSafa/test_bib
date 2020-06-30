@@ -358,13 +358,13 @@ language = {fre}
   url       = {http://www.persee.fr/web/revues/home/prescript/article/bspf_0249-7638_1950_num_47_3_2685},
 }
 
-@InBook{Atema2014,
+@Article{Atema2014,
   author   = {Atema, Jelle},
-  pages    = {26--34},
   title    = {Musical Origins and the Stone Age Evolution of Flutes},
-  year     = {2014},
-  file     = {:pdfs/2014_Musical_origins_and_the_stone_age_evolution_of_flutes.pdf:PDF},
   journal  = {Acoustics Today},
+  year     = {2014},
+  pages    = {26--34},
+  file     = {:pdfs/2014_Musical_origins_and_the_stone_age_evolution_of_flutes.pdf:PDF},
   keywords = {ArcheoFlute},
 }
 
@@ -736,32 +736,33 @@ language = {fre}
 }
 
 @InBook{Cross2006,
-  author    = {Cross, Ian and Watson, Aaron},
-  editor    = {Scarre, Chris and Lawson, Graeme},
-  pages     = {107--117},
-  publisher = {McDonald Institute for Archaeological Research},
-  title     = {{Acoustics and the human experience of socially-organized sound}},
-  year      = {2006},
-  address   = {Cambridge},
-  isbn      = {9781-902937-35-9},
-  booktitle = {Archaeoacoustics},
-  file      = {:pdfs/Cross2006 - Acoustics and the human experience of socially-organized sound.pdf:PDF},
-  groups    = {etienne:1},
-  keywords  = {Collateral,,Acoustique,HM},
-  related   = {Scarre2006},
-  url       = {http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:Acoustics+and+the+Human+Experience+of+Socially-organized+Sound#0},
+  pages         = {107--117},
+  title         = {{Acoustics and the human experience of socially-organized sound}},
+  publisher     = {McDonald Institute for Archaeological Research},
+  year          = {2006},
+  author        = {Cross, Ian and Watson, Aaron},
+  editor        = {Scarre, Chris and Lawson, Graeme},
+  address       = {Cambridge},
+  isbn          = {9781-902937-35-9},
+  __markedentry = {[etienne:1]},
+  booktitle     = {Archaeoacoustics},
+  file          = {:pdfs/Cross2006 - Acoustics and the human experience of socially-organized sound.pdf:PDF},
+  keywords      = {Collateral,,Acoustique,HM},
+  printed       = {printed},
+  related       = {Scarre2006},
+  url           = {http://scholar.google.com/scholar?hl=en&btnG=Search&q=intitle:Acoustics+and+the+Human+Experience+of+Socially-organized+Sound#0},
 }
 
 @InProceedings{DaSilva2005,
-  author    = {{Da Silva}, A R and Wanderley, M M and Scavone, Gary},
-  booktitle = {Proceedings of the International Conference on New Interfaces for Musical Expression},
-  title     = {{On the use of flute air jet as a musical control variable}},
-  year      = {2005},
-  pages     = {105--8},
-  file      = {:pdfs/DaSilva2005 - On the use of flute air jet as a musical control variable.pdf:PDF},
-  groups    = {etienne:1},
-  keywords  = {Acoustique},
-  url       = {http://dl.acm.org/citation.cfm?id=1085969},
+  author        = {{Da Silva}, A R and Wanderley, M M and Scavone, Gary},
+  title         = {{On the use of flute air jet as a musical control variable}},
+  booktitle     = {Proceedings of the International Conference on New Interfaces for Musical Expression},
+  year          = {2005},
+  pages         = {105--8},
+  __markedentry = {[etienne:1]},
+  file          = {:pdfs/DaSilva2005 - On the use of flute air jet as a musical control variable.pdf:PDF},
+  keywords      = {Acoustique},
+  url           = {http://dl.acm.org/citation.cfm?id=1085969},
 }
 
 @Article{Dauvois2005,
@@ -921,20 +922,20 @@ language = {fre}
 }
 
 @Article{Doize1939,
-  author    = {Doize, Renée-L.},
-  journal   = {Bulletin de la Société Préhistorique Française},
-  title     = {Flûte préhistorique à patine tourbeuse},
-  year      = {1939},
-  issn      = {0249-7638},
-  number    = {10},
-  pages     = {420--422},
-  volume    = {36},
-  doi       = {10.3406/bspf.1939.4705},
-  file      = {:pdfs/Doize1939 - Flûte préhistorique à patine tourbeuse.pdf:PDF},
-  groups    = {etienne:1},
-  keywords  = {ArcheoFlute},
-  publisher = {Société Préhistorique Fraçaise},
-  url       = {http://www.persee.fr/web/revues/home/prescript/article/bspf_0249-7638_1939_num_36_10_4705},
+  author        = {Doize, Renée-L.},
+  title         = {Flûte préhistorique à patine tourbeuse},
+  journal       = {Bulletin de la Société Préhistorique Française},
+  year          = {1939},
+  volume        = {36},
+  number        = {10},
+  pages         = {420--422},
+  issn          = {0249-7638},
+  __markedentry = {[etienne:1]},
+  doi           = {10.3406/bspf.1939.4705},
+  file          = {:pdfs/Doize1939 - Flûte préhistorique à patine tourbeuse.pdf:PDF},
+  keywords      = {ArcheoFlute},
+  publisher     = {Société Préhistorique Fraçaise},
+  url           = {http://www.persee.fr/web/revues/home/prescript/article/bspf_0249-7638_1939_num_36_10_4705},
 }
 
 @InProceedings{GarciaBenito2011c,
@@ -1017,18 +1018,18 @@ language = {fre}
 }
 
 @Article{Getreau1996,
-  author    = {G{\'e}treau, Florence},
-  journal   = {{Ethnologie fran{\c c}aise}},
-  title     = {{Entre l'oral et l'{\'e}crit. Pratique, transmission et th{\'e}orie du m{\'e}tier de facteur d'instruments de musique}},
-  year      = {1996},
-  number    = {1996/3},
-  pages     = {504-519},
-  volume    = {26},
-  file      = {:pdfs/Getreau1996 - Entre l'oral et l'_'ecrit. Pratique, transmission et th_'eorie du m_'etier de facteur d'instruments de musique.pdf:PDF},
-  groups    = {etienne:1},
-  keywords  = {HM},
-  publisher = {{Presses Universitaires de France}},
-  url       = {https://halshs.archives-ouvertes.fr/halshs-00140671},
+  author        = {G{\'e}treau, Florence},
+  title         = {{Entre l'oral et l'{\'e}crit. Pratique, transmission et th{\'e}orie du m{\'e}tier de facteur d'instruments de musique}},
+  journal       = {{Ethnologie fran{\c c}aise}},
+  year          = {1996},
+  volume        = {26},
+  number        = {1996/3},
+  pages         = {504-519},
+  __markedentry = {[etienne:1]},
+  file          = {:pdfs/Getreau1996 - Entre l'oral et l'_'ecrit. Pratique, transmission et th_'eorie du m_'etier de facteur d'instruments de musique.pdf:PDF},
+  keywords      = {HM},
+  publisher     = {{Presses Universitaires de France}},
+  url           = {https://halshs.archives-ouvertes.fr/halshs-00140671},
 }
 
 @Article{Goldman2015,
@@ -1292,15 +1293,15 @@ language = {fre}
 }
 
 @Article{Mallison2018,
-  author    = {Mallinson, Daniel and Hatemi, Peter},
-  title     = {The effects of information and social conformity on opinion change},
-  year      = {2018},
-  month     = {05},
-  volume    = {13},
-  booktitle = {PLOS ONE},
-  file      = {:pdfs/Mallison2018-The_effects_of_information_and_social_conformity.pdf:PDF},
-  groups    = {etienne:1},
-  keywords  = {Collateral},
+  author        = {Mallinson, Daniel and Hatemi, Peter},
+  title         = {The effects of information and social conformity on opinion change},
+  year          = {2018},
+  volume        = {13},
+  month         = {05},
+  __markedentry = {[etienne:1]},
+  booktitle     = {PLOS ONE},
+  file          = {:pdfs/Mallison2018-The_effects_of_information_and_social_conformity.pdf:PDF},
+  keywords      = {Collateral},
 }
 
 @Article{Meyer2004,
@@ -1362,17 +1363,17 @@ language = {fre}
 }
 
 @Article{Miramon-Bonhoure2013,
-  author    = {Miramon-Bonhoure, Jeanne},
-  journal   = {Musurgia},
-  title     = {"Chanter les mots dans sa flûte" : l’approche du "style vocal" (gāyakī aṅg) dans la musique Hindustani selon le maître de bansuri Rajendra Prasanna},
-  year      = {2013},
-  number    = {1},
-  volume    = {20},
-  file      = {:pdfs/Miramon-Bonhoure2013 - _Chanter les mots dans sa flûte_ _ l’approche du _style vocal_ (gāyakī aṅg) dans la musique Hindustani selon le maître de bansuri Rajendra Prasanna.pdf:PDF},
-  groups    = {etienne:1},
-  isbn      = {9782747222372},
-  keywords  = {HM},
-  publisher = {ESKA},
+  author        = {Miramon-Bonhoure, Jeanne},
+  title         = {"Chanter les mots dans sa flûte" : l’approche du "style vocal" (gāyakī aṅg) dans la musique Hindustani selon le maître de bansuri Rajendra Prasanna},
+  journal       = {Musurgia},
+  year          = {2013},
+  volume        = {20},
+  number        = {1},
+  __markedentry = {[etienne:1]},
+  file          = {:pdfs/Miramon-Bonhoure2013 - _Chanter les mots dans sa flûte_ _ l’approche du _style vocal_ (gāyakī aṅg) dans la musique Hindustani selon le maître de bansuri Rajendra Prasanna.pdf:PDF},
+  isbn          = {9782747222372},
+  keywords      = {HM},
+  publisher     = {ESKA},
 }
 
 @Article{Moore2014,
@@ -1795,6 +1796,19 @@ language = {fre}
   printed  = {printed},
 }
 
+@InProceedings{Adjiman2015,
+  author      = {Adjiman, R{\'e}mi and Denizart, Jean-Michel},
+  title       = {{Pour une s{\'e}miotique situ{\'e}e. Variations sur le th{\`e}me des intentions d'{\'e}coute port{\'e}es sur les ambiances sonores}},
+  booktitle   = {{S{\'e}miotique appliqu{\'e}e, s{\'e}miotique applicable : nouvelles m{\'e}thodes}},
+  year        = {2015},
+  address     = {Rimouski, Canada},
+  file        = {:pdfs/Adjiman2015.pdf:PDF},
+  hal_id      = {hal-01626782},
+  hal_version = {v1},
+  keywords    = {Collateral},
+  url         = {https://hal-amu.archives-ouvertes.fr/hal-01626782},
+}
+
 @Article{Albrecht1998,
   author    = {Albrecht, Gerd and Holdermann, Calsu-Stephan and Kerig, Tim and Lechterbeck, Jutta and Serangeli, Jordi},
   title     = {{"Flöten" aus Bärenknochen -- die frühesten Musikinstrumente?}},
@@ -1819,14 +1833,14 @@ language = {fre}
 }
 
 @Book{Bader2013,
-  editor    = {Bader, Rolf and Leman, Marc and God{\o}y, Rolf},
-  publisher = {Springer Berlin Heidelberg},
-  title     = {Nonlinearities and Synchronization in Musical Acoustics and Music Psychology},
-  year      = {2013},
-  doi       = {10.1007/978-3-642-36098-5},
-  groups    = {etienne:1},
-  keywords  = {HM,Acoustique},
-  timestamp = {2018-08-05},
+  title         = {Nonlinearities and Synchronization in Musical Acoustics and Music Psychology},
+  publisher     = {Springer Berlin Heidelberg},
+  year          = {2013},
+  editor        = {Bader, Rolf and Leman, Marc and God{\o}y, Rolf},
+  __markedentry = {[etienne:1]},
+  doi           = {10.1007/978-3-642-36098-5},
+  keywords      = {HM,Acoustique},
+  timestamp     = {2018-08-05},
 }
 
 @InBook{Bastiani1997,
@@ -1840,11 +1854,11 @@ language = {fre}
   keywords  = {ToFind,,ArcheoFlute},
 }
 
-@Article{Belis2000,
+@Article{Belis1998,
   author    = {Bélis, Annie},
-  journal   = {Revue Archéologique},
   title     = {Charnières ou Auloi},
-  year      = {2000},
+  journal   = {Revue Archéologique},
+  year      = {1998},
   pages     = {109--118},
   keywords  = {ToFind,},
   location1 = {Bib Bibracte [S BEL]},
@@ -2193,14 +2207,14 @@ language = {fre}
 }
 
 @Article{Cossette2010,
-  author   = {Cossette, I. and Fabre, B. and Montgermont, N. and De~La~Cuadra, P. and Almeida A.},
-  journal  = {Acta Acustica united with Acustica},
-  title    = {From breath to sound : linking respiratory mechanics to aeroacoustics sound production in flutes},
-  year     = {2010},
-  pages    = {654--667},
-  volume   = {96},
-  groups   = {etienne:1},
-  keywords = {ToFind,,Acoustique},
+  author        = {Cossette, I. and Fabre, B. and Montgermont, N. and De~La~Cuadra, P. and Almeida A.},
+  title         = {From breath to sound : linking respiratory mechanics to aeroacoustics sound production in flutes},
+  journal       = {Acta Acustica united with Acustica},
+  year          = {2010},
+  volume        = {96},
+  pages         = {654--667},
+  __markedentry = {[etienne:1]},
+  keywords      = {ToFind,,Acoustique},
 }
 
 @InProceedings{DErrico1991,
@@ -3590,14 +3604,12 @@ language = {fre}
 
 @Comment{jabref-meta: databaseType:bibtex;}
 
-@Comment{jabref-meta: grouping:
+@Comment{jabref-meta: groupstree:
 0 AllEntriesGroup:;
-1 StaticGroup:Markings\;2\;1\;\;\;\;;
-2 StaticGroup:etienne:1\;2\;1\;\;\;\;;
-1 KeywordGroup:Collatéral\;0\;keywords\;Collateral\;1\;0\;1\;\;\;\;;
-1 KeywordGroup:Histoire et Musicologie\;0\;keywords\;HM\;0\;0\;1\;\;\;\;;
-1 KeywordGroup:À trouver\;0\;keywords\;ToFind\;0\;0\;1\;\;\;\;;
-1 KeywordGroup:Acoustique\;0\;keywords\;Acoustique\;0\;0\;1\;\;\;\;;
-1 KeywordGroup:Flûtes archéologiques\;0\;keywords\;ArcheoFlute\;1\;0\;1\;\;\;\;;
-1 KeywordGroup:Support LIVRE\;0\;keywords\;SupportLivre\;0\;0\;1\;\;\;\;;
+1 KeywordGroup:Collatéral\;0\;keywords\;Collateral\;1\;0\;;
+1 KeywordGroup:Histoire et Musicologie\;0\;keywords\;HM\;0\;0\;;
+1 KeywordGroup:À trouver\;0\;keywords\;ToFind\;0\;0\;;
+1 KeywordGroup:Acoustique\;0\;keywords\;Acoustique\;0\;0\;;
+1 KeywordGroup:Flûtes archéologiques\;0\;keywords\;ArcheoFlute\;1\;0\;;
+1 KeywordGroup:Support LIVRE\;0\;keywords\;SupportLivre\;0\;0\;;
 }
